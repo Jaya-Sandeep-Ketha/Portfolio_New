@@ -45,16 +45,14 @@
 .text-gradient {
   background: radial-gradient(
     ellipse at center,
-    rgba(169, 3, 41, 1) 61%,
-    rgba(143, 2, 34, 1) 97%
+    rgba(255, 197, 120, 1) 0%,
+    rgba(251, 157, 35, 1) 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-fill-color: transparent;
 }
-
-
 
   .bg-blue-gradient {
     background: radial-gradient(
